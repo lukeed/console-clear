@@ -1,6 +1,6 @@
 {
   "name": "console-clear",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Clear the console, cross-platform",
   "repository": "lukeed/console-clear",
   "license": "MIT",
